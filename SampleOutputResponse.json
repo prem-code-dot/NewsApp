@@ -1,0 +1,235 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kara Scannell",
+            "title": "Trump will not testify in E. Jean Carroll battery trial | CNN Politics",
+            "description": "Former President Donald Trump will not testify in the civil battery and defamation trial after his attorney did not inform the court of a change in strategy by a judge-imposed deadline of 5 p.m. Sunday.",
+            "url": "https://www.cnn.com/2023/05/07/politics/donald-trump-e-jean-carroll-battery-trial-testimony/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230320111636-01-donald-trump-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-07T21:18:54Z",
+            "content": "Former President Donald Trump will not testify in the civil battery and defamation trial after his attorney did not inform the court of a change in strategy by a judge-imposed deadline of 5 p.m. Sund… [+50 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "E.J. Dionne Jr.",
+            "title": "There’s a war raging. It’s against normal politics.",
+            "description": "The breakdown of normal has been a long time in gestation.",
+            "url": "https://www.washingtonpost.com/opinions/2023/05/07/politics-republicans-war-on-normal/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XS5NUVROBUI6RDOJHNI6AKFYIU.jpg&w=1440",
+            "publishedAt": "2023-05-07T11:00:28Z",
+            "content": "Comment on this story\r\nComment\r\nThe distemper in public opinion can be explained by many factors, including a social hangover from the pandemic and economic jitters, even in the face of a strong job … [+5313 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Karishma Mehrotra",
+            "title": "A caste survey in India could upend politics in world’s largest democracy",
+            "description": "The Indian state Bihar has taken a historic step in surveying its castes, and the resulting data could fragment the national voter coalition of the governing Bharatiya Janata Party.",
+            "url": "https://www.washingtonpost.com/world/2023/05/05/india-bihar-caste-survey/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BZNJ4TLOWZCQA3HDDVCQO5CAIA.jpg&w=1440",
+            "publishedAt": "2023-05-07T10:00:28Z",
+            "content": "Comment on this story\r\nComment\r\nPATNA, India The morning milk had yet to be delivered, but the April heat was already leaving stains on his shirt. Satyadeo Paswans brows furrowed as he flipped page a… [+8607 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "An agitated Trump appears in newly released deposition tapes | CNN Politics",
+            "description": "A 48-minute video of Trump's E. Jean Carroll deposition in which he's accused of raping Carroll in the 1990s was released.",
+            "url": "https://www.cnn.com/videos/politics/2023/05/05/trump-deposition-video-e-jean-carroll-orig-contd-bu.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230505194653-trump-deposition-thumb.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-05T23:55:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Mark Davis",
+            "title": "Newsweek",
+            "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+            "url": "https://www.newsweek.com/",
+            "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+            "publishedAt": "2023-03-01T12:07:28.8517009Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2022-08-30T16:37:43.8583104Z",
+            "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Politics Archives - The American Conservative",
+            "description": null,
+            "url": "https://www.theamericanconservative.com/category/politics/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-07T21:37:27.3936289Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}
+
+
+// {
+//     "status": "ok",
+//     "totalResults": 70,
+//     "articles": [
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Hindustan Times"
+//             },
+//             "author": "Krishna Priya Pallavi",
+//             "title": "Alia Bhatt celebrates Thai actor Davika Hoorne's birthday in Seoul ahead of Gucci Cruise show, stuns in mini dress - Hindustan Times",
+//             "description": "Alia Bhatt celebrated Thai actor Davika Hoorne's birthday in Seoul ahead of her appearance at the Gucci Cruise 2024 show. Check out pictures from her outing. | Fashion Trends",
+//             "url": "https://www.hindustantimes.com/lifestyle/fashion/alia-bhatt-celebrates-thai-actor-davika-hoornes-birthday-in-seoul-ahead-of-gucci-cruise-show-stuns-in-mini-dress-101684206481306.html",
+//             "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/05/16/1600x900/Alia_Bhatt_Davika_Hoorne_Gucci_Seoul_1684206761048_1684206769450.jpg",
+//             "publishedAt": "2023-05-16T03:15:10Z",
+//             "content": "Actor Alia Bhatt recently travelled to Seoul, South Korea, to attend the Gucci Cruise 2024 show. The Italian high-end luxury fashion house announced Alia as their first Indian Global Ambassador last … [+1985 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Hindustan Times"
+//             },
+//             "author": "HT Entertainment Desk",
+//             "title": "SRK on meeting a designer for renovating Mannat: The lunch that he served was.. - Hindustan Times",
+//             "description": "Shah Rukh Khan accompanied wife Gauri Khan for the launch of her book, My Life in Design, on Monday. He spoke about how they renovated Mannat.  | Bollywood",
+//             "url": "https://www.hindustantimes.com/entertainment/bollywood/shah-rukh-khan-on-meeting-a-designer-for-renovating-mannat-101684202669140.html",
+//             "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/05/16/1600x900/shah_rukh_khan_gauri_khan_1684204060236_1684204060538.jpg",
+//             "publishedAt": "2023-05-16T02:29:41Z",
+//             "content": "Shah Rukh Khan and Gauri Khan were twinning in black as they graced the book launch of the latter at the Taj Hotel, Mumbai. On the occasion, Shah Rukh spoke about buying and then renovating his curre… [+1842 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Zoom"
+//             },
+//             "author": "Sushmita Dey",
+//             "title": "The Kerala Story Box Office Collection Day 11: Adah Sharma's Film All Set To Hit Rs 150 Crore Mark - Times Now",
+//             "description": "The Kerala Story is a movie directed by Sudipto Sen, which features Adah Sharma and has been praised for its content. Despite being mired in several controversies, it has entered the Rs 100 crores club in just nine days of its theatrical release. Read on to h…",
+//             "url": "https://www.timesnownews.com/entertainment-news/the-kerala-story-box-office-collection-day-11-adah-sharmas-film-all-set-to-hit-rs-150-crore-mark-bollywood-news-article-100262618",
+//             "urlToImage": "https://static.tnn.in/thumb/msid-100262618,updatedat-1684202121643,width-1280,height-720,resizemode-75/100262618.jpg",
+//             "publishedAt": "2023-05-16T01:57:26Z",
+//             "content": "MPBSE 5th, 8th Results Today (OUT) LIVE: MP Board Class 5th 8th Results DECLARED on mpbse.nic.in, mpresults.nic.in, Check Timings"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Hindustan Times"
+//             },
+//             "author": "HT Entertainment Desk",
+//             "title": "When Vicky got a hilarious tip from Abhishek on how to be happy after marriage - Hindustan Times",
+//             "description": "In an old interview, Vicky Kaushal shared how he had gotten a useful tip from Abhishek Bachchan for when he would be married. He turns 35 on May 16. | Bollywood",
+//             "url": "https://www.hindustantimes.com/entertainment/bollywood/when-vicky-kaushal-got-a-hilarious-tip-from-abhishek-bachchan-on-how-to-be-happy-after-marriage-101684201229359.html",
+//             "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/05/16/1600x900/Vicky_and_Abhishek_1684201358463_1684201389772.jpg",
+//             "publishedAt": "2023-05-16T01:45:10Z",
+//             "content": "Before he got married to actor Katrina Kaif, Vicky Kaushal had revealed a beautiful tip that Abhishek Bachchan had shared with him. The actor, who turns 35 on May 16, revealed the useful marriage adv… [+1961 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "VOGUE India"
+//             },
+//             "author": "VOGUE India",
+//             "title": "Gemini Horoscope Today: May 16, 2023 - VOGUE India",
+//             "description": null,
+//             "url": "https://www.vogue.in/horoscope/product/gemini-horoscope-today-may-16-2023/",
+//             "urlToImage": null,
+//             "publishedAt": "2023-05-16T00:20:59Z",
+//             "content": null
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "123telugu.com"
+//             },
+//             "author": null,
+//             "title": "Juicy update on SSMB 28 - 123telugu",
+//             "description": "Telugu cinema news, Telugu Movies Updates, Latest Movie reviews in Telugu, Telugu cinema reviews, telugu movie reviews, Tollywood, Box office collections, Telugu Movie show times, Theater List, telugu cinema tickets",
+//             "url": "https://www.123telugu.com/mnews/juicy-update-on-ssmb-28-2.html",
+//             "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
+//             "publishedAt": "2023-05-15T21:30:00Z",
+//             "content": "Super Star Mahesh Babu will be seen next in a film, tentatively titled SSMB 28, directed by ace director Trivikram Srinivas. Pooja Hegde is the female lead in this action entertainer, which is confir… [+673 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "123telugu.com"
+//             },
+//             "author": null,
+//             "title": "Despite Custody’s disaster, Venkat Prabhu to direct this top hero’s next? - 123telugu",
+//             "description": "Telugu cinema news, Telugu Movies Updates, Latest Movie reviews in Telugu, Telugu cinema reviews, telugu movie reviews, Tollywood, Box office collections, Telugu Movie show times, Theater List, telugu cinema tickets",
+//             "url": "https://www.123telugu.com/mnews/despite-custodys-disaster-venkat-prabhu-to-direct-this-top-heros-next.html",
+//             "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
+//             "publishedAt": "2023-05-15T20:30:00Z",
+//             "content": "Tamil director Venkat Prabhu made his Telugu debut with the recently released Tamil-Telugu bilingual action thriller, Custody. The Naga Naga Chaitanya and Krithi Shetty-starrer has turned out to be o… [+678 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": "the-times-of-india",
+//                 "name": "The Times of India"
+//             },
+//             "author": "etimes.in",
+//             "title": "Mumbai Police to take action against Amitabh Bachchan and Anushka Sharma for not wearing a helmet during - TOI Etimes",
+//             "description": "Amitabh Bachchan and Anushka Sharma were spotted taking a bike ride to work in order to get saved from the traffic...",
+//             "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mumbai-police-to-take-action-against-amitabh-bachchan-and-anushka-sharma-for-not-wearing-a-helmet-during-their-bike-ride-see-inside/articleshow/100260543.cms",
+//             "urlToImage": "https://static.toiimg.com/thumb/msid-100260539,width-1070,height-580,imgsize-87824,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+//             "publishedAt": "2023-05-15T20:17:00Z",
+//             "content": "Amitabh Bachchan complains about rash drivers: No helmet, no discipline how do they get driving licenses?Amitabh Bachchan recently hitched a bike ride with a stranger to beat the traffic in Mumbai."
+//         },
+//         {
+//             "source": {
+//                 "id": "the-times-of-india",
+//                 "name": "The Times of India"
+//             },
+//             "author": "etimes.in",
+//             "title": "Sara Ali Khan says Vicky Kaushal is the fourth co-star to marry after working with her, says 'there's som - Times of India",
+//             "description": "Sara Ali Khan's co-stars like Ranveer Singh, Varun Dhawan and Vikrant Massey had gotten married after working with her and so did Vicky Kaushal...",
+//             "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sara-ali-khan-says-vicky-kaushal-is-the-fourth-co-star-to-marry-after-working-with-her-says-theres-something-about-my-energy/articleshow/100260443.cms",
+//             "urlToImage": "https://static.toiimg.com/thumb/msid-100260440,width-1070,height-580,imgsize-48872,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+//             "publishedAt": "2023-05-15T19:53:00Z",
+//             "content": "Vicky Kaushal talks about being 'Kanjoos' in real life; shares a fun anecdote with wife Katrina KaifVicky Kaushal shares fun anecdote with Katrina Kaif as he reveals that he is a little stingy in his… [+10 chars]"
+//         }
+//     ]
+// }
